@@ -1,0 +1,15 @@
+{
+  "name": "trabajo-clip",
+  "version": "1.0.0",
+  "description": "Trabajo responsive para programa clip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Alvarez",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "nodemon": "^2.0.4"
+  }
+}
